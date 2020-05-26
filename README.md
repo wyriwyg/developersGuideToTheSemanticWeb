@@ -6,4 +6,4 @@
   <li><code>code_developer_guide_2nd_edition.zip</code>: source code for 2nd edition</li>
 </ul>
 
-If you have any questions, contact the author by wyriwyg@gmail.com.The email is not difficult to rmemember: wyriwyg = <b>w</b>hat <b>y</b>ou <b>r</b>ead <b>i</b>s <b>w</b>hat <b>y</b>ou <b>g</b>et.
+If you have any questions, contact the author by wyriwyg@gmail.com, and the email is not difficult to rmemember: wyriwyg = <b>w</b>hat <b>y</b>ou <b>r</b>ead <b>i</b>s <b>w</b>hat <b>y</b>ou <b>g</b>et.
